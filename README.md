@@ -7,7 +7,7 @@ After git pull:
 
 >run docker compose up
 
-Go to http://127.0.0.1:5500 ant try to user oauth 2 authentication
+Go to http://127.0.0.1:5500 and try to use oauth 2 authentication
 
 In memory users:
 | User | Password    | Rol    |
