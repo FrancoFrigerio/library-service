@@ -1,11 +1,7 @@
 package com.frigerio.library_service.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
 
 public class Book {
-    @Id
-    private Long id;
     private String title;
     private String author;
     private Integer pages;
