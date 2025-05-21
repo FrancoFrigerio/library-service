@@ -1,13 +1,23 @@
-version: "3.8"
 services:
   auth-server:
-    build: ./auth-service-0.0.1-SNAPSHOT
+    image: localhost/library-auth-service:latest
     ports:
       - "9090:9090"
-
+    networks:
+      - oaut-network
   resource-server:
-    build: ./library-service-0.0.1-SNAPSHOT
+    image: localhost/library-resource-service:latest
     ports:
       - "8081:8081"
     depends_on:
       - auth-server
+    networks:
+      - oaut-network
+  front-server:
+    image: localhost/library-front-service:latest
+    ports:
+      - "5500:80"
+    networks:
+      - oaut-network
+networks:
+  oaut-network:
