@@ -5,13 +5,9 @@ After git pull:
 
 >In front run -> docker build -f Dockerfile -t library-front-service:latest
 
->docker network create oaut-net
+>run docker compose up
 
->docker run --network oaut-net --rm -p 9090:9090 --name auth-server localhost/library-auth-service:latest
-
->docker run --rm --network oaut-net -p 8081:8081 localhost/library-resource-service:latest
-
->docker run --rm --network oaut-net -p 5500:80 localhost/library-front-service:latest
+Go to http://127.0.0.1:5500 ant try to user oauth 2 authentication
 
 In memory users:
 | User | Password    | Rol    |
