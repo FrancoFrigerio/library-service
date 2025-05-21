@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: library-service
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: http://localhost:9090/oauth2/jwks #http://auth-server:9090/oauth2/jwks
+
+
+
+
+

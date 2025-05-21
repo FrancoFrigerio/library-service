@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e2b7d5e-8dee-466a-b884-ab302a92ff8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/src/main/java/com/eazybytes/springsecsection1/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/src/main/java/com/eazybytes/springsecsection1/controller/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section1/springsecsection1/src/test/java/com/eazybytes/springsecsection1/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section2/springsecsection2/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section3/springsecsection3/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section4/springsecsection4/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section5/springsecsection5/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/config/EazyBankProdUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/config/ProjectSecurityProdConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/resources/application_prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/springsecsection6/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/controller/DashboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/handler/CustomAuthenticationFailureHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/handler/CustomAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/model/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/css/style-starter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/blog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/blog3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/icon-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/icon-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/team1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/team2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/team3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/team4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/testi1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/testi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/images/testi3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/js/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/js/theme-change.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/static/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/courses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/holidays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-end/src/test/java/com/eazybytes/eazyschool/EazyschoolApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/controller/DashboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/model/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/css/style-starter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/blog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/blog3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/icon-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/icon-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/team1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/team2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/team3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/team4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/testi1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/testi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/images/testi3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/js/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/js/theme-change.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/static/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/courses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/holidays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/eazyschool-start/src/test/java/com/eazybytes/eazyschool/EazyschoolApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/config/EazyBankProdUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/config/ProjectSecurityProdConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/events/AuthenticationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/exceptionhandling/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/resources/application_prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section7/springsecsection7/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/Angular+Project+Setup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/account/account.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/account/account.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/account/account.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/balance/balance.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/balance/balance.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/balance/balance.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/cards/cards.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/cards/cards.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/cards/cards.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/contact/contact.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/contact/contact.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/contact/contact.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/dashboard/dashboard.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/dashboard/dashboard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/dashboard/dashboard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/loans/loans.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/loans/loans.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/loans/loans.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/logout/logout.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/logout/logout.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/logout/logout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/notices/notices.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/notices/notices.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/components/notices/notices.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/constants/app.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/interceptors/app.request.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/account.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/account.transactions.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/cards.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/contact.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/loans.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/model/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/routeguards/auth.routeguard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/services/dashboard/dashboard.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/app/services/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/environments/environment.development.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-end/bank-app-ui/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/account/account.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/account/account.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/account/account.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/balance/balance.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/balance/balance.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/balance/balance.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/cards/cards.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/cards/cards.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/cards/cards.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/contact/contact.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/contact/contact.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/contact/contact.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/dashboard/dashboard.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/dashboard/dashboard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/dashboard/dashboard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/loans/loans.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/loans/loans.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/loans/loans.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/logout/logout.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/logout/logout.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/logout/logout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/notices/notices.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/notices/notices.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/components/notices/notices.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/constants/app.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/interceptors/app.request.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/account.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/account.transactions.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/cards.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/contact.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/loans.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/model/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/routeguards/auth.routeguard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/services/dashboard/dashboard.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/app/services/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/environments/environment.development.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/eazybank-start/bank-app-ui/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/config/EazyBankProdUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/config/ProjectSecurityProdConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/events/AuthenticationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/exceptionhandling/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/filter/CsrfCookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/AccountTransactions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Loans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/model/Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/AccountTransactionsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/AccountsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/CardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/ContactRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/LoanRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/java/com/eazybytes/repository/NoticeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/resources/application_prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section8/springsecsection8/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/config/EazyBankProdUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/config/ProjectSecurityProdConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/events/AuthenticationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/events/AuthorizationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/exceptionhandling/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/filter/CsrfCookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/AccountTransactions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Loans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/model/Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/AccountTransactionsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/AccountsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/CardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/ContactRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/LoanRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/java/com/eazybytes/repository/NoticeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/resources/application_prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section9/springsecsection9/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_11/springsecsection_11/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section_11/springsecsection_11/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/account/account.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/account/account.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/account/account.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/balance/balance.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/balance/balance.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/balance/balance.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/cards/cards.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/cards/cards.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/cards/cards.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/contact/contact.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/contact/contact.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/contact/contact.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/dashboard/dashboard.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/dashboard/dashboard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/dashboard/dashboard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/loans/loans.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/loans/loans.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/loans/loans.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/logout/logout.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/logout/logout.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/logout/logout.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/notices/notices.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/notices/notices.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/components/notices/notices.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/constants/app.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/interceptors/app.request.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/account.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/account.transactions.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/cards.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/contact.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/loans.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/model/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/routeguards/auth.routeguard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/services/dashboard/dashboard.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/app/services/login/login.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/environments/environment.development.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/bank-app-ui/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/EazyBankBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/config/EazyBankProdUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/config/EazyBankUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/config/ProjectSecurityProdConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/constants/ApplicationConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/BalanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/NoticesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/events/AuthenticationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/events/AuthorizationEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/exceptionhandling/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/AuthoritiesLoggingAfterFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/AuthoritiesLoggingAtFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/CsrfCookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/JWTTokenGeneratorFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/JWTTokenValidatorFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/filter/RequestValidationBeforeFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/AccountTransactions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Loans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/LoginRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/LoginResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/model/Notice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/AccountTransactionsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/AccountsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/CardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/ContactRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/LoanRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/java/com/eazybytes/repository/NoticeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/resources/application_prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/main/resources/sql/scripts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_12/springsecsection_12/src/test/java/com/eazybytes/EazyBankBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_14/springsecOAUTH2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../section_14/springsecOAUTH2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/java/com/eazybytes/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/java/com/eazybytes/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/java/com/eazybytes/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../section_15/springsecsection_15/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_16/authserver/src/main/java/com/eazybytes/authserver/config/EazyBankUsernamePwdAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section_16/authserver/src/main/java/com/eazybytes/authserver/config/EazyBankUsernamePwdAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_16/authserver/src/main/java/com/eazybytes/authserver/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section_16/authserver/src/main/java/com/eazybytes/authserver/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_16/authserver/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../section_16/authserver/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_16/springsecsection_16/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../section_16/springsecsection_16/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_16/springsecsection_16/src/main/resources/application_prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../section_16/springsecsection_16/src/main/resources/application_prod.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vPxREM6HQoHucILvGRecW1u2DZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.library-service [clean,install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.LibraryServiceApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/franco.frigerio/Desktop/myCode/tribu/spring-security/my-spring-security/auth-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franco.frigerio\Desktop\myCode\tribu\spring-security\my-spring-security\library-service\src\main\resources" />
+      <recent name="C:\Users\franco.frigerio\Desktop\myCode\tribu\spring-security\my-spring-security\library-service\src\main\resources\db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="library-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.frigerio.library_service.LibraryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e2b7d5e-8dee-466a-b884-ab302a92ff8f" name="Changes" comment="" />
+      <created>1744060499770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744060499770</updated>
+      <workItem from="1744060500809" duration="14523000" />
+      <workItem from="1744243833604" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

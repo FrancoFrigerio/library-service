@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  auth-server:
+    build: ./auth-service-0.0.1-SNAPSHOT
+    ports:
+      - "9090:9090"
+
+  resource-server:
+    build: ./library-service-0.0.1-SNAPSHOT
+    ports:
+      - "8081:8081"
+    depends_on:
+      - auth-server
